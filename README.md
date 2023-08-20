@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently into learning Web-Dev<br>🎯 Web-Development , UX/UI , DSA<br>🎲 Fun fact: Want to become a spider, coz they are the best web developers and in catching bugs</p>
+<p align="left">✨ Creating bugs for 2 years<br>📚 I'm currently into learning Web-Dev<br>🎯 Web-Development , UX/UI , DSA<br>🎲 Fun fact: Want to become a spider, coz they are the best web developers and in catching bugs 😅</p>
 
 ###
 
